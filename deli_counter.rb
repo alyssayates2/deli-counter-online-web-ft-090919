@@ -2,5 +2,5 @@ katz_deli = []
 
 def line
   if array.length == 0
-    "The line is currently empty."
+  katz_deli =  "The line is currently empty."
 end
