@@ -1,7 +1,7 @@
-katz_deli = ["Mark", "Fred", "Jessica", "Mimi"]
+katz_deli = []
 
 
-def line(array) # this was the one I figured out
+def line(array) 
   if array.length >= 1
     nuarray = []
     counter = 1
@@ -14,3 +14,5 @@ def line(array) # this was the one I figured out
     puts "The line is currently empty."
   end
 end
+
+
