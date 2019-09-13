@@ -1,1 +1,1 @@
-katz_deli = [ ] 
+katz_deli = [] 
