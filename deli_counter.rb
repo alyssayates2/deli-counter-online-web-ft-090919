@@ -1,6 +1,5 @@
 katz_deli = []
-counter = 1
-counter += 1 
+
 
 
 def line(array)
@@ -17,5 +16,5 @@ def line(array)
 end
 
 def take_a_number
-  katz_deli.push("#{counter}. #{name}")
+  katz_deli.push("#{}")
 end
