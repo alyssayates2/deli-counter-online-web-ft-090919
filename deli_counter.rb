@@ -1,7 +1,7 @@
 katz_deli = []
 
 
-def line(array)
+def line(array) 
   if array.length >= 1
     nuarray = []
     counter = 1
@@ -14,3 +14,8 @@ def line(array)
     puts "The line is currently empty."
   end
 end
+
+def take_a_number
+  katz_deli.push("#{counter}. #{name}")
+end 
+
