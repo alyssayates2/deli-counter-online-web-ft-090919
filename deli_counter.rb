@@ -1,10 +1,10 @@
 katz_deli = []
+counter = 1
 
 
 def line(array)
   if array.length >= 1
     nuarray = []
-    counter = 1
     array.each do |name|
       nuarray.push("#{counter}. #{name}")
       counter += 1
@@ -16,5 +16,5 @@ def line(array)
 end
 
 def take_a_number
-  katz_deli.push
+  katz_deli.push("#{}")
 end
